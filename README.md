@@ -2,7 +2,7 @@
 
 👨‍💻 I'm a Frontend developer with 1 year of commercial experience and an IT Product Owner with more than 4 years of experience in online business
 
-⭐ I'm very passionate to build customer focused products, especially acting as a Frontend developer
+⭐ I'm very passionate to build customer focused and well-designed (UI/UX) products, especially acting as a Frontend developer
 
 🚀 I managed to launch several successful products from scratch and get high marks from users
 
