@@ -2,7 +2,7 @@
 
 👨‍💻 I'm a Frontend developer with 1 year of commercial experience and an IT Product Owner with more than 4 years of experience in online business
 
-⭐ I'm very passionate to build customer focused and well-designed (UI/UX) products, especially acting as a Frontend developer
+⭐ I'm very passionate to build customer focused products, especially acting as a Frontend developer
 
 🚀 I managed to launch several successful products from scratch and get high marks from users
 
@@ -34,7 +34,8 @@
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
 <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> 
+<a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
+<a href="https://www.jetbrains.com/teamcity" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/TeamCity_Icon.svg/768px-TeamCity_Icon.svg.png?20200803084943" alt="python" width="40" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>  
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
@@ -48,7 +49,7 @@ Open work DEMO | Lubimovka theater | ITMO university
 -------------- | ----------------- | ---------------------
 React, TS, Tailwind, Jest | VanillaJS, HTML, CSS | VanillaJS, HTML, CSS
 :see_no_evil: Nope | :octocat: [Github](https://github.com/AlexanderAbramovPav/lubimovka-theater-commercial-team) | :octocat: [Github](https://github.com/AlexanderAbramovPav/itmo-university-commercial-team)
-▶️ [Demo]() | ▶️ [Demo](https://lubimovka-theater-commercial-team.vercel.app/) | ▶️ [Demo](https://itmo-university-commercial-team.vercel.app/)
+▶️ [Demo](https://demos.creative-tim.com/material-kit/index.html) | ▶️ [Demo](https://lubimovka-theater-commercial-team.vercel.app/) | ▶️ [Demo](https://itmo-university-commercial-team.vercel.app/)
 ![Work DEMO](https://i.ibb.co/YdztD7n/Capture-5.png) | ![Lubimovka](https://i.ibb.co/8DLDStz/Capture-4.png) | ![ITMO university](https://i.ibb.co/XpDhgxH/Capture-3.png)
 
 <h3 align="left">Portfolio (pet-projects):</h3>
