@@ -29,6 +29,7 @@
 <a href="https://en.bem.info/methodology/" target="_blank" rel="noreferrer"> <img src="https://en.bem.info/S3zKVZJcFfltyiAz-bWVmw4o3IU.svgd" alt="bem" width="40" height="40"/> </a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="redux" width="40" height="40"/> </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
@@ -54,7 +55,7 @@ React, TS, Tailwind, Jest | VanillaJS, HTML, CSS | VanillaJS, HTML, CSS
 
 MOVIES EXPLORER. Personal account | MESTO. Instagram Now analog | TRAVELER GUIDE. Adaptive lending | LEARN TO LEARN. Static lending
 -------------- | ----------------- | -------------------- | ---------------------
-MERN | MERN | HTML, CSS | HTML, CSS
+MERN (Context OR Redux) | MERN | HTML, CSS | HTML, CSS
 :octocat: [Github](https://github.com/AlexanderAbramovPav/movies-explorer-frontend) | :octocat: [Github](https://github.com/AlexanderAbramovPav/react-mesto-api-full) | :octocat: [Github](https://github.com/AlexanderAbramovPav/travel-guide-adaptive-lending) | :octocat: [Github](https://github.com/AlexanderAbramovPav/how-to-learn-lending-guide/tree/main)
 ▶️ [Demo](https://lovemovies.nomoredomains.sbs/) | ▶️ [Demo](https://alexander.abramov.nomoredomains.sbs/) | ▶️ [Demo](https://travel-guide-adaptive-lending.vercel.app/) | ▶️ [Demo](https://how-to-learn-lending-guide.vercel.app/)
 ![Movie searcher](https://i.ibb.co/WVd9YSk/Capture-7.png) | ![Mesto places](https://i.ibb.co/rv6Hv7d/Capture-6.png) | ![Traveler guide](https://i.ibb.co/2hM05NJ/Capture-2.png)| ![How to Learn](https://i.ibb.co/RyHMzkx/Capture-1.png)
