@@ -44,12 +44,12 @@
 
 <h3 align="left">Portfolio (commercial team projects):</h3>
 
-Open work DEMO | Lubimovka theater | ITMO university
--------------- | ----------------- | ---------------------
-React, TS, Tailwind, Jest | VanillaJS, HTML, CSS | VanillaJS, HTML, CSS
-:see_no_evil: Nope | :octocat: [Github](https://github.com/AlexanderAbramovPav/lubimovka-theater-commercial-team) | :octocat: [Github](https://github.com/AlexanderAbramovPav/itmo-university-commercial-team)
-▶️ [Demo](https://demos.creative-tim.com/material-kit/index.html) | ▶️ [Demo](https://lubimovka-theater-commercial-team.vercel.app/) | ▶️ [Demo](https://itmo-university-commercial-team.vercel.app/)
-![Work DEMO](https://i.ibb.co/YdztD7n/Capture-5.png) | ![Lubimovka](https://i.ibb.co/8DLDStz/Capture-4.png) | ![ITMO university](https://i.ibb.co/XpDhgxH/Capture-3.png)
+Open work DEMO | Open work NEW UI | Lubimovka theater | ITMO university
+-------------- | -------------- | ----------------- | ---------------------
+React, TS, Tailwind, Jest | Figma | VanillaJS, HTML, CSS | VanillaJS, HTML, CSS
+:see_no_evil: Nope | :see_no_evil: Nope | :octocat: [Github](https://github.com/AlexanderAbramovPav/lubimovka-theater-commercial-team) | :octocat: [Github](https://github.com/AlexanderAbramovPav/itmo-university-commercial-team)
+▶️ [Demo](https://demos.creative-tim.com/material-kit/index.html) | ▶️ [Demo](https://www.figma.com/file/wuVxTtM3mRXQTQk8aV6yVF/Project-Light?node-id=0%3A1) | ▶️ [Demo](https://lubimovka-theater-commercial-team.vercel.app/) | ▶️ [Demo](https://itmo-university-commercial-team.vercel.app/)
+![Work DEMO](https://i.ibb.co/YdztD7n/Capture-5.png) | ![Work UI](https://i.ibb.co/FXpCcsP/Main.png) | ![Lubimovka](https://i.ibb.co/8DLDStz/Capture-4.png) | ![ITMO university](https://i.ibb.co/XpDhgxH/Capture-3.png)
 
 <h3 align="left">Portfolio (pet-projects):</h3>
 
