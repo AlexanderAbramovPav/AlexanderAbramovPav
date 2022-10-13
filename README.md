@@ -44,7 +44,7 @@
 
 <h3 align="left">Portfolio (commercial team projects):</h3>
 
-Open work DEMO | Open work NEW UI | Lubimovka theater | ITMO university
+Open work DEMO | Open work NEW UI | LUBIMOVKA theater. Adaptive lending | ITMO university. Adaptive lending
 -------------- | -------------- | ----------------- | ---------------------
 React, TS, Tailwind, Jest | Figma | VanillaJS, HTML, CSS | VanillaJS, HTML, CSS
 :see_no_evil: Nope | :see_no_evil: Nope | :octocat: [Github](https://github.com/AlexanderAbramovPav/lubimovka-theater-commercial-team) | :octocat: [Github](https://github.com/AlexanderAbramovPav/itmo-university-commercial-team)
