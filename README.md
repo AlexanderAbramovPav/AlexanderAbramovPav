@@ -1,6 +1,6 @@
 <h1 align="center">Hello there👋, I'm Alexander!</h1>
 
-👨‍💻 I have 6+ years in Web-development (1.5 years as a Frontend developer and 4.5 years as IT Product Owner)
+👨‍💻 I have 6+ years in Web-development (as a Frontend developer and as an IT Product Owner)
 
 ⭐ I'm very passionate to build customer focused products, especially acting as a Frontend developer
 
