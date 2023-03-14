@@ -55,7 +55,7 @@ React, TS, Tailwind, Formik, Sleleton, OData CASL, Jest | Figma | VanillaJS, HTM
 
 ChatGPT Personal. Different LLMs | MOVIES EXPLORER. Personal account | MESTO. Instagram Now analog | TRAVELER GUIDE. Adaptive lending | LEARN TO LEARN. Static lending
 -------------- | -------------- | ----------------- | -------------------- | ---------------------
-Next.js 13, Firebase, TypeScript | MERN (Context OR Redux) | MERN | HTML, CSS | HTML, CSS
+Next.js 13, Firebase, TypeScript, TailWind CSS | MERN (Context OR Redux) | MERN | HTML, CSS | HTML, CSS
 :octocat: [Github](https://github.com/AlexanderAbramovPav/chatgpt-personal) | :octocat: [Github](https://github.com/AlexanderAbramovPav/movies-explorer-frontend) | :octocat: [Github](https://github.com/AlexanderAbramovPav/react-mesto-api-full) | :octocat: [Github](https://github.com/AlexanderAbramovPav/travel-guide-adaptive-lending) | :octocat: [Github](https://github.com/AlexanderAbramovPav/how-to-learn-lending-guide/tree/main)
 ▶️ [Demo](https://chatgpt-personal.vercel.app/) | ▶️ [Demo](https://lovemovies.nomoredomains.sbs/) | ▶️ [Demo](https://alexander.abramov.nomoredomains.sbs/) | ▶️ [Demo](https://travel-guide-adaptive-lending.vercel.app/) | ▶️ [Demo](https://how-to-learn-lending-guide.vercel.app/)
 ![ChatGPT Personal](https://i.ibb.co/W0Tg1Hd/chatgpt.png) | ![Movie searcher](https://i.ibb.co/WVd9YSk/Capture-7.png) | ![Mesto places](https://i.ibb.co/rv6Hv7d/Capture-6.png) | ![Traveler guide](https://i.ibb.co/2hM05NJ/Capture-2.png)| ![How to Learn](https://i.ibb.co/RyHMzkx/Capture-1.png)
