@@ -42,20 +42,20 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">Portfolio (commercial team projects):</h3>
+<h3 align="left">Portfolio (commercial projects):</h3>
 
-Open work DEMO | Open work NEW UI | LUBIMOVKA theater. Adaptive lending | ITMO university. Adaptive lending
--------------- | -------------- | ----------------- | ---------------------
-React, TS, Tailwind, Formik, Sleleton, OData CASL, Jest | Figma | VanillaJS, HTML, CSS | VanillaJS, HTML, CSS
-:see_no_evil: Nope | :see_no_evil: Nope | :octocat: [Github](https://github.com/AlexanderAbramovPav/lubimovka-theater-commercial-team) | :octocat: [Github](https://github.com/AlexanderAbramovPav/itmo-university-commercial-team)
-▶️ [Demo]() | ▶️ [Demo](https://www.figma.com/file/wuVxTtM3mRXQTQk8aV6yVF/Project-Light?node-id=0%3A1) | ▶️ [Demo](https://lubimovka-theater-commercial-team.vercel.app/) | ▶️ [Demo](https://itmo-university-commercial-team.vercel.app/)
-![Work DEMO](https://i.ibb.co/YdztD7n/Capture-5.png) | ![Work UI](https://i.ibb.co/FXpCcsP/Main.png) | ![Lubimovka](https://i.ibb.co/8DLDStz/Capture-4.png) | ![ITMO university](https://i.ibb.co/XpDhgxH/Capture-3.png)
+Ice Breaking AI lab (YC news supported) | Open work NEW UI | LUBIMOVKA theater. Adaptive lending | ITMO university. Adaptive lending | Telegram bot for free mental help
+---------------------- | -------------- | ----------------- | --------------------- | ---------------------
+Next.js, TS, MongoDb, Daisy, OpenAI | Figma | VanillaJS, HTML, CSS | VanillaJS, HTML, CSS | Python, Aiogram
+:see_no_evil: Nope | :see_no_evil: Nope | :octocat: [Github](https://github.com/AlexanderAbramovPav/lubimovka-theater-commercial-team) | :octocat: [Github](https://github.com/AlexanderAbramovPav/itmo-university-commercial-team) | :octocat: [Github](https://github.com/AlexanderAbramovPav/mental-asap-help)
+▶️ [Demo](https://www.icebreakinglab.com/) | ▶️ [Demo](https://www.figma.com/file/wuVxTtM3mRXQTQk8aV6yVF/Project-Light?node-id=0%3A1) | ▶️ [Demo](https://lubimovka-theater-commercial-team.vercel.app/) | ▶️ [Demo](https://itmo-university-commercial-team.vercel.app/) | ▶️ [Demo](https://t.me/asap_psy_bot)
+![Logo](https://i.ibb.co/fxMD88S/icb.png) | ![Work UI](https://i.ibb.co/FXpCcsP/Main.png) | ![Lubimovka](https://i.ibb.co/8DLDStz/Capture-4.png) | ![ITMO university](https://i.ibb.co/XpDhgxH/Capture-3.png) | ![ASAP BOT HELPER](https://i.ibb.co/fGQrf8h/Tg-bot.png)
 
 <h3 align="left">Portfolio (pet-projects):</h3>
 
 ChatGPT Personal. Different LLMs | MOVIES EXPLORER. Personal account | MESTO. Instagram Now analog | TRAVELER GUIDE. Adaptive lending | LEARN TO LEARN. Static lending
 -------------- | -------------- | ----------------- | -------------------- | ---------------------
-Next.js 13, Firebase, TypeScript, TailWind CSS | MERN (Context OR Redux) | MERN | HTML, CSS | HTML, CSS
+Next.js 13, Firebase, TypeScript, Tailwind, OpenAI | MERN (Context OR Redux) | MERN | HTML, CSS | HTML, CSS
 :octocat: [Github](https://github.com/AlexanderAbramovPav/chatgpt-personal) | :octocat: [Github](https://github.com/AlexanderAbramovPav/movies-explorer-frontend) | :octocat: [Github](https://github.com/AlexanderAbramovPav/react-mesto-api-full) | :octocat: [Github](https://github.com/AlexanderAbramovPav/travel-guide-adaptive-lending) | :octocat: [Github](https://github.com/AlexanderAbramovPav/how-to-learn-lending-guide/tree/main)
 ▶️ [Demo](https://chatgpt-personal.vercel.app/) | ▶️ [Demo](https://lovemovies.nomoredomains.sbs/) | ▶️ [Demo](https://alexander.abramov.nomoredomains.sbs/) | ▶️ [Demo](https://travel-guide-adaptive-lending.vercel.app/) | ▶️ [Demo](https://how-to-learn-lending-guide.vercel.app/)
 ![ChatGPT Personal](https://i.ibb.co/W0Tg1Hd/chatgpt.png) | ![Movie searcher](https://i.ibb.co/WVd9YSk/Capture-7.png) | ![Mesto places](https://i.ibb.co/rv6Hv7d/Capture-6.png) | ![Traveler guide](https://i.ibb.co/2hM05NJ/Capture-2.png)| ![How to Learn](https://i.ibb.co/RyHMzkx/Capture-1.png)
