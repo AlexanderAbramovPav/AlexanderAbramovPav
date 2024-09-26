@@ -1,10 +1,10 @@
 <h1 align="center">Hello there👋, I'm Alexander!</h1>
 
-👨‍💻 I have 5+ years in Web-development (as a Frontend developer and as an IT Product Owner)
+👨‍💻 I have 6+ years in Web-development (as a Frontend developer and as an IT Product Owner)
 
 ⭐ I'm very passionate to build customer focused products, especially acting as a Frontend developer
 
-🚀 I managed to launch several successful products from scratch and get high marks from users
+🚀 I managed to launch several successful products from scratch and optimised the existed ones with great feedback from users.
 
 👨‍🎓 My strong sides align in constant studying and practicing new technologies and finding the perfect balance between value for business and development efforts
 
@@ -15,8 +15,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/alexander-abramov-pavlovich/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alexander-abramov-pavlovich/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/alexander.abramov.pav/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/alexander.abramov.pav/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/alex_wibm/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/alex_wibm/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3> 
@@ -44,18 +42,9 @@
 
 <h3 align="left">Portfolio (commercial projects):</h3>
 
-Ice Breaking AI lab (YC news supported) | Open work NEW UI | LUBIMOVKA theater. Adaptive lending | ITMO university. Adaptive lending | Telegram bot for free mental help
+Ice Breaking AI lab (YC news supported) | ChatGPT Analogue with multi LLMs | Platform UI redesign in Figma | MOVIES EXPLORER. Personal account | MESTO. Instagram Now analog
 ---------------------- | -------------- | ----------------- | --------------------- | ---------------------
-Next.js, TS, MongoDb, Daisy, OpenAI | Figma | VanillaJS, HTML, CSS | VanillaJS, HTML, CSS | Python, Aiogram
-:see_no_evil: Nope | :see_no_evil: Nope | :octocat: [Github](https://github.com/AlexanderAbramovPav/lubimovka-theater-commercial-team) | :octocat: [Github](https://github.com/AlexanderAbramovPav/itmo-university-commercial-team) | :octocat: [Github](https://github.com/AlexanderAbramovPav/mental-asap-help)
-▶️ [Demo](https://www.icebreakinglab.com/) | ▶️ [Demo](https://www.figma.com/file/wuVxTtM3mRXQTQk8aV6yVF/Project-Light?node-id=0%3A1) | ▶️ [Demo](https://lubimovka-theater-commercial-team.vercel.app/) | ▶️ [Demo](https://itmo-university-commercial-team.vercel.app/) | ▶️ [Demo](https://t.me/asap_psy_bot)
-![Logo](https://i.ibb.co/fxMD88S/icb.png) | ![Work UI](https://i.ibb.co/FXpCcsP/Main.png) | ![Lubimovka](https://i.ibb.co/8DLDStz/Capture-4.png) | ![ITMO university](https://i.ibb.co/XpDhgxH/Capture-3.png) | ![ASAP BOT HELPER](https://i.ibb.co/fGQrf8h/Tg-bot.png)
-
-<h3 align="left">Portfolio (pet-projects):</h3>
-
-ChatGPT Personal. Different LLMs | MOVIES EXPLORER. Personal account | MESTO. Instagram Now analog | TRAVELER GUIDE. Adaptive lending | LEARN TO LEARN. Static lending
--------------- | -------------- | ----------------- | -------------------- | ---------------------
-Next.js 13, Firebase, TypeScript, Tailwind, OpenAI | MERN (Context OR Redux) | MERN | HTML, CSS | HTML, CSS
-:octocat: [Github](https://github.com/AlexanderAbramovPav/chatgpt-personal) | :octocat: [Github](https://github.com/AlexanderAbramovPav/movies-explorer-frontend) | :octocat: [Github](https://github.com/AlexanderAbramovPav/react-mesto-api-full) | :octocat: [Github](https://github.com/AlexanderAbramovPav/travel-guide-adaptive-lending) | :octocat: [Github](https://github.com/AlexanderAbramovPav/how-to-learn-lending-guide/tree/main)
-▶️ [Demo](https://chatgpt-personal.vercel.app/) | ▶️ [Demo](https://movies-explorer-frontend-two-vert.vercel.app) | ▶️ [Demo](https://mesto-frontend-seven.vercel.app/) | ▶️ [Demo](https://travel-guide-adaptive-lending.vercel.app/) | ▶️ [Demo](https://how-to-learn-lending-guide.vercel.app/)
-![ChatGPT Personal](https://i.ibb.co/W0Tg1Hd/chatgpt.png) | ![Movie searcher](https://i.ibb.co/WVd9YSk/Capture-7.png) | ![Mesto places](https://i.ibb.co/rv6Hv7d/Capture-6.png) | ![Traveler guide](https://i.ibb.co/2hM05NJ/Capture-2.png)| ![How to Learn](https://i.ibb.co/RyHMzkx/Capture-1.png)
+Next.js, TS, MongoDb, Daisy, OpenAI | Next.js 13, Firebase, TypeScript, Tailwind, OpenAI | Figma | MERN (Context OR Redux) | MERN
+:see_no_evil: Nope | :octocat: [Github](https://github.com/AlexanderAbramovPav/chatgpt-personal) | :see_no_evil: Nope | :octocat: [Github](https://github.com/AlexanderAbramovPav/movies-explorer-frontend) | :octocat: [Github](https://github.com/AlexanderAbramovPav/react-mesto-api-full)
+▶️ [Demo](https://www.icebreakinglab.com/) | ▶️ [Demo](https://chatgpt-personal.vercel.app/) | ▶️ [Demo](https://www.figma.com/file/wuVxTtM3mRXQTQk8aV6yVF/Project-Light?node-id=0%3A1) | ▶️ [Demo](https://movies-explorer-frontend-two-vert.vercel.app) | ▶️ [Demo](https://mesto-frontend-seven.vercel.app/)
+![Logo](https://i.ibb.co/fxMD88S/icb.png) | ![ChatGPT Personal](https://i.ibb.co/W0Tg1Hd/chatgpt.png) | ![Work UI](https://i.ibb.co/FXpCcsP/Main.png) | ![Movie searcher](https://i.ibb.co/WVd9YSk/Capture-7.png) | ![Mesto places](https://i.ibb.co/rv6Hv7d/Capture-6.png)
