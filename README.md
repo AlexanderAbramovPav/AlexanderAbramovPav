@@ -2,7 +2,7 @@
 
 👨‍💻 I have 7+ years in Web-development — now an AI Frontend Engineer at **Lime Connect**, Germany's AI agent platform, shipping AI Agents, AI Copilot and Knowledge Base fullstack at enterprise scale
 
-🤖 I build AI harness for my team every day — and open-source it here
+🤖 I build AI harness for my team and users every day — and open-source it here
 
 🚀 I managed to launch several products from scratch and optimised the existing ones with great feedback from users — now AI-native, with LLMs and agents in the core
 
